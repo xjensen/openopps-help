@@ -6,7 +6,7 @@ category: opportunity
 sidenav: opportunity-participate
 title: How to participate in an opportunity
 ---
-Participating in an opportunity is a great way to gain experience, contribute your expertise and work with others across the Federal Government.
+Participating in an opportunity is a great way to gain experience, contribute your expertise and work with others across the State Government.
 
 To participate, you need to [create a profile](../../profile/) and be a current federal employee employee or a current student. Your profile highlights your skills, education, experience and areas of interest, such as career areas, agencies you’re interested in and other topics. And, you also need to ask your supervisor to make sure it’s okay for you to participate.
 
