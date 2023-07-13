@@ -8,7 +8,7 @@ title: How to participate in an opportunity
 ---
 Participating in an opportunity is a great way to gain experience, contribute your expertise and work with others across the State Government.
 
-To participate, you need to [create a profile](../../profile/) and be a current federal employee employee or a current student. Your profile highlights your skills, education, experience and areas of interest, such as career areas, agencies you’re interested in and other topics. And, you also need to ask your supervisor to make sure it’s okay for you to participate.
+To participate, you need to [create a profile](../../profile/) and be a current State employee employee or a current student. Your profile highlights your skills, education, experience and areas of interest, such as career areas, agencies you’re interested in and other topics. And, you also need to ask your supervisor to make sure it’s okay for you to participate.
 
 Once you have a profile, you can apply to any open opportunity. If you’re a student you can apply to internship opportunities.
 
